@@ -1,0 +1,15 @@
+@font-face {
+   font-family: '思源黑体-Bold';
+   font-display: swap;
+   src: url('思源黑体-Bold/font.ttf');
+}
+@font-face {
+   font-family: '思源黑体-Light';
+   font-display: swap;
+   src: url('思源黑体-Light/font.ttf');
+}
+@font-face {
+   font-family: '思源黑体-Medium';
+   font-display: swap;
+   src: url('思源黑体-Medium/font.ttf');
+}
